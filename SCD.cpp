@@ -4,10 +4,13 @@ using namespace std;
 class HotelRoom
 {
     void SearchModule();
-    //Function Done
+        //Function Modified.
     void HotelDetailsModule();
+        //Function Modified.
     void BookingModule();
+        //Function Modified.
     void Availability();
+        //Function Modified.
 };
 
 int main()
